@@ -1,0 +1,35 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/mp3_tb/itf/registers
+// format=mti addressradix=d dataradix=h version=1.0 wordsperline=1
+ 0: 00000000
+ 1: c227de21
+ 2: 7a0b8518
+ 3: 2abbd70d
+ 4: dbc69fed
+ 5: f2c8c6f2
+ 6: 043d64ed
+ 7: 2e430a11
+ 8: 359b9104
+ 9: 04ad93c1
+10: 1e360ba8
+11: a071ce50
+12: 2f0205c3
+13: 7226a82d
+14: ee54a5cc
+15: e6c80f8e
+16: 74f8460b
+17: 1bf7434f
+18: 15e6fe6d
+19: 235599ab
+20: 00d82f11
+21: f9071b08
+22: 2e19ab95
+23: 32d9b63c
+24: 0eef4035
+25: d87c4856
+26: 77f42edc
+27: 11252df4
+28: 1220163e
+29: 270dd9e8
+30: 387ac0b8
+31: e284376b
